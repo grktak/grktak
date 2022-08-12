@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://giphy.com/explore/matrix-code)]
 <h1 align="center">Hi 👋, I'm Garik Takoushian</h1>
 <h3 align="center">A passionate frontend developer from Arizona</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
