@@ -1,4 +1,4 @@
-                                    ![MasterHead](https://github.com/grktak/grktak/blob/main/matrixGif.gif)
+&nbsp![MasterHead](https://github.com/grktak/grktak/blob/main/matrixGif.gif)
 <h1 align="center">Hi 👋, I'm Garik Takoushian</h1>
 <h3 align="center">A passionate frontend developer from Arizona</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/grktak/grktak/blob/main/programmer.gif">
