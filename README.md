@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CSE385 Capstone Project**
 
-- 🌱 I’m currently pursuing **BA, Computer Science, Arizona State University**
+- 🌱 I’m currently pursuing **BS, Computer Science, Arizona State University**
 
 - 📫 How to reach me **gtakoush@asu.edu**
 
